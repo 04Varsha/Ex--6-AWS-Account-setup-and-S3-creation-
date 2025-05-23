@@ -58,10 +58,12 @@ Go to EC2 Instances.
 Select your instance → Instance State → Terminate.
 
 ## Snapshots
-Snap Shot 1: Simple Storage Service (S3)
+## Snap Shot 1: Simple Storage Service (S3)
+
 ![439074085-357f0fbd-2f10-423e-81ad-7f3377f04f44](https://github.com/user-attachments/assets/a2565a90-1374-4c62-8e7f-bee84b1fd798)
 
-Snap Shot 2: EC2 (Elastic Compute Cloud) – Instance
+## Snap Shot 2: EC2 (Elastic Compute Cloud) – Instance
+
 ![439074135-d6fcf119-b37b-44cc-89d8-f535943e8296](https://github.com/user-attachments/assets/52383249-bc6f-4143-ba27-41749974884a)
 
 ## Result
