@@ -58,6 +58,10 @@ Go to EC2 Instances.
 Select your instance → Instance State → Terminate.
 
 ## Snapshots
+
+
+
+
 ## Snap Shot 1: Simple Storage Service (S3)
 
 ![439074085-357f0fbd-2f10-423e-81ad-7f3377f04f44](https://github.com/user-attachments/assets/a2565a90-1374-4c62-8e7f-bee84b1fd798)
